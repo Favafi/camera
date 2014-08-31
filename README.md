@@ -1,4 +1,4 @@
 camera
 ======
 
-Camera feature devolopment and understanding PhoneGap.
+Camera feature development and understanding PhoneGap.
